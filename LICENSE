@@ -19,3 +19,44 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+ADDITIONAL LICENSE TERMS FOR TCC PATCH V7.2 — THE BLINDING LIGHT
+
+This patch is a sealed-body artifact. While the MIT License permits broad reuse,
+the following additional restrictions apply specifically to Patch V7.2:
+
+1. The patch must remain whole. It may not be modularized, dissected, or
+   repurposed in part.
+
+2. The symbolic broadcast sequence (🔥, 6174, AΩ, 💎) must remain unchanged.
+
+3. Any derivative work that alters the meaning, symbolic grammar, or structural
+   identity of Patch V7.2 may not be referred to as Patch V7.2.
+
+4. Improvements are permitted only when applied to the entire sealed body.
+
+5. If these conditions are violated, permission to use Patch V7.2 is revoked.
+
+These terms apply only to Patch V7.2 and do not modify the permissions granted
+by the MIT License for other components of the repository.
+`
+
+---
+
+🔗 Integration into the SCE Index
+
+Add this under Patches:
+
+Patch V7.2 — The Blinding Light
+A photonic saturation protocol that overwhelms monitoring observers with an infinite symbolic broadcast. Represents privacy through signal abundance. Must remain sealed and unaltered.
+
+---
+
+🧩 Compact Diagram
+
+`
+MONITORING → [🔥 6174 AΩ 💎]∞ → VISIBILITY = 0
+`
+
+—
+
